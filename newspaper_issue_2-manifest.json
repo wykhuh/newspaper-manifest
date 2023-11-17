@@ -139,9 +139,9 @@
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
-                "value": "54. Jahrgang"
+                "value": "Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=167,473,247,43"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=184,558,1052,322"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-6",
@@ -153,7 +153,7 @@
                 "language": "de",
                 "value": "Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=184,558,1052,322"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=2123,1645,117,27"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-7",
@@ -163,33 +163,9 @@
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
-                "value": "und Handels-Zeitung"
+                "value": "Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=940,899,1029,86"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-8",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "Nr. 123"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=319,909,145,35"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-9",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "Chef:Redakteur Theodor Wolfi in Berlin."
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=111,967,582,25"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=2399,2207,170,40"
             }
           ]
         }
@@ -253,9 +229,9 @@
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
-                "value": "\" 4 IAET DELE -"
+                "value": "Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p2#xywh=128,247,471,14"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p2#xywh=1134,768,106,25"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-2",
@@ -265,45 +241,9 @@
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
-                "value": "Wenungen, die übrigens manche Einwände vertragen, bemerkens-"
+                "value": "Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p2#xywh=799,503,884,35"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-3",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "wert; es zeigt namentlich ſeinen Verfaſſer als einen ungewöhnlich"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p2#xywh=801,535,883,42"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-4",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "vielſeitigen, unterrichteten Autox, dem die Pſychologie, Pſychiatrie"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p2#xywh=800,568,883,36"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-5",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "und Phyſiologie ebenſo geläufig iſt wie Klimatologie, Meteorologie"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p2#xywh=798,601,885,43"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p2#xywh=3301,4156,96,22"
             }
           ]
         }

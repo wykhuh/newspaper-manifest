@@ -138,9 +138,9 @@
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
-                "value": "I. 54. Jahrgang"
+                "value": "Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p1#xywh=0,376,399,53"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p1#xywh=839,3259,118,27"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_1-anno_p1.json-2",
@@ -150,9 +150,9 @@
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
-                "value": "Nr. 29"
+                "value": "Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p1#xywh=309,817,121,39"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p1#xywh=161,459,1063,329"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_1-anno_p1.json-3",
@@ -162,9 +162,9 @@
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
-                "value": "Chef-Redakteur Theodor Wolfi in Berlin, 7"
+                "value": "Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p1#xywh=95,876,619,31"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p1#xywh=1942,1579,106,23"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_1-anno_p1.json-4",
@@ -174,21 +174,9 @@
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
-                "value": "DB T. W. Mit Bewunderung ſtehen wir vor dem erfreulichen"
+                "value": "„Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p1#xywh=54,1233,894,35"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_1-anno_p1.json-5",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "men, Wifer einer Staat3anwaltſchaft, die jeht ſogar ihre Nachtruhe"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p1#xywh=0,1268,950,34"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p1#xywh=1608,4429,123,25"
             }
           ]
         }
@@ -252,9 +240,9 @@
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
-                "value": "Die beiden Weltreiſenden Wolſcht und Kindermann waren"
+                "value": "„Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p2#xywh=944,432,815,32"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p2#xywh=1996,3996,122,26"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_1-anno_p2.json-2",
@@ -264,45 +252,9 @@
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
-                "value": "jedenfall8 weder Faſciſten noch S vl ſondern leichtſinnige, un-"
+                "value": "Berliner"
               },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p2#xywh=902,435,856,62"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_1-anno_p2.json-3",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "erfahrene Studenten. In einer Anſichtskarte an mich aus Riga"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p2#xywh=903,491,857,36"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_1-anno_p2.json-4",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "bezeichnen fie ſich ſelbſt als „Max und Moriß“ mit der"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p2#xywh=903,517,856,62"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_1-anno_p2.json-5",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "Unterſchrift: „Uns kann keiner was.“ Das beſagt doch wohl"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p2#xywh=903,550,855,30"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i1p2#xywh=2468,4313,106,26"
             }
           ]
         }
