@@ -32,6 +32,15 @@
         "none": ["de"],
         "en": ["German"]
       }
+    },
+    {
+      "label": {
+        "en": ["date"]
+      },
+      "value": {
+        "none": ["1925-03-13"],
+        "en": ["1925-03-13"]
+      }
     }
   ],
   "thumbnail": [
