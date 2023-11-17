@@ -1,0 +1,739 @@
+{
+  "@context": ["http://iiif.io/api/presentation/3/context.json"],
+  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+  "type": "Manifest",
+  "partOf": [
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_title-collection.json",
+      "type": "Collection"
+    }
+  ],
+  "label": {
+    "de": ["Berliner Tageblatt - 1925-02-16"]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": ["type"]
+      },
+      "value": {
+        "none": [
+          "http://schema.org/PublicationIssue",
+          "http://data.europeana.eu/concept/base/18"
+        ],
+        "en": ["Analytic serial", "Newspaper", "Newspaper Issue"]
+      }
+    },
+    {
+      "label": {
+        "en": ["language"]
+      },
+      "value": {
+        "none": ["de"],
+        "en": ["German"]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://api.europeana.eu/api/v2/thumbnail-by-url.json?uri=https%3A%2F%2Fiiif.europeana.eu%2Fimage%2F2YMIN6YXMQ6COVM5AO2XKB5KMCKPMT2YKEKNMAGHVRBIHOOY4AVA%2Fpresentation_images%2F9340afd0-ffe2-11e5-b68d-fa163e60dd72%2Fnode-2%2Fimage%2FSBB%2FBerliner_Tageblatt%2F1925%2F02%2F16%2F0%2FF_SBB_00001_19250216_054_079_0_001%2Ffull%2Ffull%2F0%2Fdefault.jpg&type=TEXT",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "navDate": "1925-02-16T00:00:00Z",
+  "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "requiredStatement": {
+    "label": {
+      "en": ["Attribution"]
+    },
+    "value": {
+      "en": [
+        "<a href='https://www.europeana.eu/portal/record/9200355/BibliographicResource_3000096302605.html'>Berliner Tageblatt</a> - Staatsbibliothek zu Berlin - Preußischer Kulturbesitz. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://www.europeana.eu/",
+      "type": "Agent",
+      "label": {
+        "en": ["Europeana"]
+      },
+      "logo": [
+        {
+          "id": "https://style.europeana.eu/images/europeana-logo-default.png",
+          "type": "Image",
+          "format": "image/png",
+          "height": 310,
+          "width": 100
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://www.europeana.eu/api/v2/record/9200355/BibliographicResource_3000096302513.json-ld",
+      "type": "Dataset",
+      "format": "application/ld+json",
+      "profile": "http://www.europeana.eu/schemas/edm/"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "none": ["p. 1"]
+      },
+      "rendering": [],
+      "height": 5000,
+      "width": 3602,
+      "items": [{}],
+      "annotations": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json",
+          "type": "AnnotationPage",
+
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json-1",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "I. 54. Jahrgang"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=0,376,399,53"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json-2",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "Nr. 29"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=309,817,121,39"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json-3",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "Chef-Redakteur Theodor Wolfi in Berlin, 7"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=95,876,619,31"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json-4",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "DB T. W. Mit Bewunderung ſtehen wir vor dem erfreulichen"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=54,1233,894,35"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json-5",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "men, Wifer einer Staat3anwaltſchaft, die jeht ſogar ihre Nachtruhe"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=0,1268,950,34"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json-6",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "einnpiert, während ſie in einigen bekannten Fällen ſchon"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=0,1300,950,34"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json-7",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "mi Tage zu ſchlummern ſchien. Aber nachdem man ge-"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=0,1335,950,39"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json-8",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "d<hen MWigend bewundert hat, darf man ſich vielleicht für einen"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=0,1368,950,35"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json-9",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "Fen ugenblid einem anderen Lande zuwenden, in dem die Ge-"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=3,1400,948,39"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p1.json-10",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "\"282, Bhtigfeit blüht. Jn MoS3kau ſind, wie ſchon berichtet"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=4,1434,947,34"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "none": ["p. 2"]
+      },
+      "rendering": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-alto_p2.xml",
+          "type": "Text",
+          "format": "application/xml",
+          "profile": "http://www.loc.gov/standards/alto/",
+          "label": {
+            "en": ["ALTO XML"]
+          }
+        }
+      ],
+      "height": 5000,
+      "width": 3602,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/annotation_page_painting/ap2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/annotation/p2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.io/api/image/3.0/example/reference/4ce82cef49fb16798f4c2440307c3d6f-newspaper-p2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.io/api/image/3.0/example/reference/4ce82cef49fb16798f4c2440307c3d6f-newspaper-p2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json",
+          "type": "AnnotationPage",
+
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json-1",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "Die beiden Weltreiſenden Wolſcht und Kindermann waren"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=944,432,815,32"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json-2",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "jedenfall8 weder Faſciſten noch S vl ſondern leichtſinnige, un-"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=902,435,856,62"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json-3",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "erfahrene Studenten. In einer Anſichtskarte an mich aus Riga"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=903,491,857,36"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json-4",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "bezeichnen fie ſich ſelbſt als „Max und Moriß“ mit der"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=903,517,856,62"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json-5",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "Unterſchrift: „Uns kann keiner was.“ Das beſagt doch wohl"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=903,550,855,30"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json-6",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "genug."
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=902,586,78,23"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json-7",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "Jett ſihen Max und Moritz im Gefängnis.“"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=941,604,575,48"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json-8",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "Auch auf die Geſundheit de3 alten Herrn Wolſc<t hat die"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=874,642,885,34"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json-9",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "iſſregung zerrüttend gewirkt. Da3 ergibt ſich aus einem"
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=872,670,886,68"
+                }
+              }
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-anno_p2.json-10",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "ſpäteren Briefe, der mit zitternder Hand geſchrieben iſt."
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_1-manifest.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "#xywh=872,707,839,40"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
