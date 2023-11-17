@@ -134,292 +134,62 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-1",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
                 "value": "|"
               },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=0,1427,3,11"
-                }
-              }
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p1#xywh=0,1427,3,11"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-2",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
                 "value": "[ZE ZTERURMWE8 ZTEü3ZAM"
               },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=0,1900,11,227"
-                }
-              }
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p1#xywh=0,1900,11,227"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-3",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
                 "value": "Sili*e1*\"ZSIGel a! Pi €"
               },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=0,2290,21,458"
-                }
-              }
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p1#xywh=0,2290,21,458"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-4",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
                 "value": "el*fal"
               },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=0,2775,23,87"
-                }
-              }
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p1#xywh=0,2775,23,87"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-5",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
                 "value": "54. Jahrgang"
               },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=167,473,247,43"
-                }
-              }
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-6",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "Berliner"
-              },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=184,558,1052,322"
-                }
-              }
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-7",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "und Handels-Zeitung"
-              },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=940,899,1029,86"
-                }
-              }
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-8",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "Nr. 123"
-              },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=319,909,145,35"
-                }
-              }
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-9",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "Chef:Redakteur Theodor Wolfi in Berlin."
-              },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=111,967,582,25"
-                }
-              }
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-10",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "Abend"
-              },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=1172,456,199,67"
-                }
-              }
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p1#xywh=167,473,247,43"
             }
           ]
         }
@@ -478,292 +248,62 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-1",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
                 "value": "\" 4 IAET DELE -"
               },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=128,247,471,14"
-                }
-              }
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p2#xywh=128,247,471,14"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-2",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
                 "value": "Wenungen, die übrigens manche Einwände vertragen, bemerkens-"
               },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=799,503,884,35"
-                }
-              }
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p2#xywh=799,503,884,35"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-3",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
                 "value": "wert; es zeigt namentlich ſeinen Verfaſſer als einen ungewöhnlich"
               },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=801,535,883,42"
-                }
-              }
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p2#xywh=801,535,883,42"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-4",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
                 "value": "vielſeitigen, unterrichteten Autox, dem die Pſychologie, Pſychiatrie"
               },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=800,568,883,36"
-                }
-              }
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p2#xywh=800,568,883,36"
             },
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-5",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
                 "language": "de",
                 "value": "und Phyſiologie ebenſo geläufig iſt wie Klimatologie, Meteorologie"
               },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=798,601,885,43"
-                }
-              }
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-6",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "und Soziologie. In der umfaſſenden, von ihm verwerteten Literatur"
-              },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=800,634,884,42"
-                }
-              }
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-7",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "nehmen ſeine Arbeiten keinen geringen Raum ein. Er hat über"
-              },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=801,667,883,34"
-                }
-              }
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-8",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "Berufspſychoſen, Alpinismus, phyſiologiſc<e Optik, über Nervoſität"
-              },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=800,700,884,41"
-                }
-              }
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-9",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "und Kultur, über Hyſterie, Hypnoſe und Suggeſtion geſchrieben und"
-              },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=800,733,883,33"
-                }
-              }
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-10",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "mehrfach (auc in der Berliner Pſychologiſchen Geſellſchaft) das"
-              },
-              "target": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                },
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "#xywh=800,766,884,34"
-                }
-              }
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p2#xywh=798,601,885,43"
             }
           ]
         }
