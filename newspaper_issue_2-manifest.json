@@ -134,7 +134,7 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-5",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
@@ -146,7 +146,7 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-6",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
@@ -158,7 +158,7 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-7",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
@@ -170,7 +170,7 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-8",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
@@ -182,7 +182,7 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-9",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
@@ -248,7 +248,7 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-1",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
@@ -260,7 +260,7 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-2",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
@@ -272,7 +272,7 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-3",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
@@ -284,7 +284,7 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-4",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
@@ -296,7 +296,7 @@
             {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-5",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
                 "format": "text/plain",
