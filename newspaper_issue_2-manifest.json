@@ -1,10 +1,10 @@
 {
   "@context": ["http://iiif.io/api/presentation/3/context.json"],
   "type": "Manifest",
-  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+  "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
   "partOf": [
     {
-      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_title-collection.json",
+      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_title-collection.json",
       "type": "Collection"
     }
   ],
@@ -81,14 +81,14 @@
   ],
   "items": [
     {
-      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+      "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
       "type": "Canvas",
       "label": {
         "none": ["p. 1"]
       },
       "rendering": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-alto_p1.xml",
+          "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-alto_p1.xml",
           "type": "Text",
           "format": "application/xml",
           "profile": "http://www.loc.gov/standards/alto/",
@@ -101,11 +101,11 @@
       "width": 3602,
       "items": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/annotation_page_painting/ap1",
+          "id": "https://wykhuh.github.io/newspaper-manifest/annotation_page_painting/ap1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/annotation/p1",
+              "id": "https://wykhuh.github.io/newspaper-manifest/annotation/p1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -120,19 +120,19 @@
                   }
                 ]
               },
-              "target": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p1"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json",
+          "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json",
           "type": "AnnotationPage",
 
           "items": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json-1",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-1",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -144,11 +144,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -161,7 +161,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json-2",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-2",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -173,11 +173,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -190,7 +190,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json-3",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-3",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -202,11 +202,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -219,7 +219,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json-4",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-4",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -231,11 +231,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -248,7 +248,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json-5",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-5",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -260,11 +260,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -277,7 +277,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json-6",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-6",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -289,11 +289,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -306,7 +306,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json-7",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-7",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -318,11 +318,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -335,7 +335,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json-8",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-8",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -347,11 +347,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -364,7 +364,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json-9",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-9",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -376,11 +376,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -393,7 +393,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p1.json-10",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-10",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -405,11 +405,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p1",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p1",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -426,14 +426,14 @@
       ]
     },
     {
-      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+      "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
       "type": "Canvas",
       "label": {
         "none": ["p. 2"]
       },
       "rendering": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-alto_p2.xml",
+          "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-alto_p2.xml",
           "type": "Text",
           "format": "application/xml",
           "profile": "http://www.loc.gov/standards/alto/",
@@ -446,11 +446,11 @@
       "width": 3602,
       "items": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/annotation_page_painting/ap2",
+          "id": "https://wykhuh.github.io/newspaper-manifest/annotation_page_painting/ap2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/annotation/p2",
+              "id": "https://wykhuh.github.io/newspaper-manifest/annotation/p2",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -465,18 +465,18 @@
                   }
                 ]
               },
-              "target": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2"
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/p2"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json",
+          "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json-1",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-1",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -488,11 +488,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -505,7 +505,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json-2",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-2",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -517,11 +517,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -534,7 +534,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json-3",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-3",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -546,11 +546,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -563,7 +563,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json-4",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-4",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -575,11 +575,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -592,7 +592,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json-5",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-5",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -604,11 +604,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -621,7 +621,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json-6",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-6",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -633,11 +633,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -650,7 +650,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json-7",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-7",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -662,11 +662,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -679,7 +679,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json-8",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-8",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -691,11 +691,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -708,7 +708,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json-9",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-9",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -720,11 +720,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
@@ -737,7 +737,7 @@
               }
             },
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-anno_p2.json-10",
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p2.json-10",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
@@ -749,11 +749,11 @@
               "target": {
                 "type": "SpecificResource",
                 "source": {
-                  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/canvas/p2",
+                  "id": "https://wykhuh.github.io/newspaper-manifest/canvas/p2",
                   "type": "Canvas",
                   "partOf": [
                     {
-                      "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_issue_2-manifest.json",
+                      "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-manifest.json",
                       "type": "Manifest"
                     }
                   ]
