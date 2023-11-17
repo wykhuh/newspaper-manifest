@@ -132,54 +132,6 @@
 
           "items": [
             {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-1",
-              "type": "Annotation",
-              "motivation": "tagging",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "|"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=0,1427,3,11"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-2",
-              "type": "Annotation",
-              "motivation": "tagging",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "[ZE ZTERURMWE8 ZTEü3ZAM"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=0,1900,11,227"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-3",
-              "type": "Annotation",
-              "motivation": "tagging",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "Sili*e1*\"ZSIGel a! Pi €"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=0,2290,21,458"
-            },
-            {
-              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-4",
-              "type": "Annotation",
-              "motivation": "tagging",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "language": "de",
-                "value": "el*fal"
-              },
-              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=0,2775,23,87"
-            },
-            {
               "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-5",
               "type": "Annotation",
               "motivation": "tagging",
@@ -190,6 +142,54 @@
                 "value": "54. Jahrgang"
               },
               "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=167,473,247,43"
+            },
+            {
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "Berliner"
+              },
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=184,558,1052,322"
+            },
+            {
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "und Handels-Zeitung"
+              },
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=940,899,1029,86"
+            },
+            {
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "Nr. 123"
+              },
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=319,909,145,35"
+            },
+            {
+              "id": "https://wykhuh.github.io/newspaper-manifest/newspaper_issue_2-anno_p1.json-9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "language": "de",
+                "value": "Chef:Redakteur Theodor Wolfi in Berlin."
+              },
+              "target": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1#xywh=111,967,582,25"
             }
           ]
         }
