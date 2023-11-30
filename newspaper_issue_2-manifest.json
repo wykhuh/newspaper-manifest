@@ -9,7 +9,9 @@
     {
       "id": "https://api.europeana.eu/api/v2/thumbnail-by-url.json?uri=https%3A%2F%2Fiiif.europeana.eu%2Fimage%2F3UU6R3RRZZGU2VNISCQX7N474GR7X4VMGYBTIWV2SNCBRGSR2WAA%2Fpresentation_images%2Fea1ba210-ffd3-11e5-b68d-fa163e60dd72%2Fnode-2%2Fimage%2FSBB%2FBerliner_Tageblatt%2F1925%2F03%2F13%2F0%2FF_SBB_00001_19250313_054_123_0_001%2Ffull%2Ffull%2F0%2Fdefault.jpg&type=TEXT",
       "type": "Image",
-      "format": "image/jpeg"
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 300
     }
   ],
   "partOf": [
@@ -22,11 +24,11 @@
     {
       "id": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p1",
       "type": "Canvas",
+      "height": 5000,
+      "width": 3517,
       "label": {
         "none": ["p. 1"]
       },
-      "height": 5000,
-      "width": 3517,
       "items": [
         {
           "id": "https://wykhuh.github.io/newspaper-manifest/annotation_page_painting/ap1",
@@ -102,11 +104,11 @@
     {
       "id": "https://wykhuh.github.io/newspaper-manifest/canvas/i2p2",
       "type": "Canvas",
+      "height": 5000,
+      "width": 3502,
       "label": {
         "none": ["p. 2"]
       },
-      "height": 5000,
-      "width": 3502,
       "items": [
         {
           "id": "https://wykhuh.github.io/newspaper-manifest/annotation_page_painting/ap2",
