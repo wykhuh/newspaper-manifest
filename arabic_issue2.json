@@ -1,0 +1,102 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue2.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["2. من أراد أن يفهم كل ما سمعه من الكتب."]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/0c03876b-092b-407e-a1a1-f522881690fb/thumbnail",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 300
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://wykhuh.github.io/newspaper-manifest/arabic_collection.json",
+      "type": "Collection",
+      "label": {
+        "none": ["Arabic Manuscripts from West Africa"]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue2/canvas/access/0",
+      "type": "Canvas",
+      "height": 3703,
+      "width": 2602,
+      "label": {
+        "none": ["a. recto"]
+      },
+      "items": [
+        {
+          "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue2/canvas/access/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue2/canvas/access/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://wykhuh.github.io/newspaper-manifest/arabic_issue2/canvas/access/0",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/adeed96d-8b4f-4432-b083-d5f36f6d0d6c/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 3703,
+                "width": 2602,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/adeed96d-8b4f-4432-b083-d5f36f6d0d6c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue2/canvas/access/1",
+      "type": "Canvas",
+      "height": 3708,
+      "width": 2610,
+      "label": {
+        "none": ["b. verso"]
+      },
+      "items": [
+        {
+          "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue2/canvas/access/1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue2/canvas/access/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://wykhuh.github.io/newspaper-manifest/arabic_issue2/canvas/access/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/b0221251-3bb5-44a9-9b6c-a82b04e71c33/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 3708,
+                "width": 2610,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/b0221251-3bb5-44a9-9b6c-a82b04e71c33",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

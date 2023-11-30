@@ -1,0 +1,24 @@
+{
+  "@context": ["http://iiif.io/api/presentation/3/context.json"],
+  "id": "https://wykhuh.github.io/newspaper-manifest/arabic_collection.json",
+  "type": "Collection",
+  "label": {
+    "none": ["Arabic Manuscripts from West Africa"]
+  },
+  "items": [
+    {
+      "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue1.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["1. محبة مع خاتم النبي يوسف."]
+      }
+    },
+    {
+      "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue2.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["2. من أراد أن يفهم كل ما سمعه من الكتب."]
+      }
+    }
+  ]
+}

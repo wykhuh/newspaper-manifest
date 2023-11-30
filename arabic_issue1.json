@@ -1,0 +1,102 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue1.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["1. محبة مع خاتم النبي يوسف."]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/2ca1b09b-cbad-43dd-82bf-a7fa807269d8/thumbnail",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 300
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://wykhuh.github.io/newspaper-manifest/arabic_collection.json",
+      "type": "Collection",
+      "label": {
+        "none": ["Arabic Manuscripts from West Africa"]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue1/canvas/access/0",
+      "type": "Canvas",
+      "height": 5588,
+      "width": 4380,
+      "label": {
+        "none": ["a. recto"]
+      },
+      "items": [
+        {
+          "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue1/canvas/access/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue1/canvas/access/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://wykhuh.github.io/newspaper-manifest/arabic_issue1/canvas/access/0",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/eece6ef7-d6de-48a6-8e47-933649a32234/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5588,
+                "width": 4380,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/eece6ef7-d6de-48a6-8e47-933649a32234",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue1/canvas/access/1",
+      "type": "Canvas",
+      "height": 5595,
+      "width": 4401,
+      "label": {
+        "none": ["b. verso"]
+      },
+      "items": [
+        {
+          "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue1/canvas/access/1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://wykhuh.github.io/newspaper-manifest/arabic_issue1/canvas/access/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://wykhuh.github.io/newspaper-manifest/arabic_issue1/canvas/access/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/eca5ad14-e1dd-45cd-9967-dc08846caf05/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5595,
+                "width": 4401,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/eca5ad14-e1dd-45cd-9967-dc08846caf05",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
